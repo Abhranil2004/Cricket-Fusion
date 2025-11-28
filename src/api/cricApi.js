@@ -10,8 +10,8 @@ const RAPIDAPI_HOST = 'cricbuzz-cricket.p.rapidapi.com';
 const api = axios.create({
   baseURL: BASE,
   headers: {
-    'x-rapidapi-key': '8b9023b76dmsh8cefea759d64b5bp12b2f4jsndae5e33c993b',
-    'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com',
+    'x-rapidapi-key': '---------',
+    'x-rapidapi-host': '-------------',
   },
   timeout: 20000,
 });
