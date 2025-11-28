@@ -1,5 +1,5 @@
 # **Cricket Fusion 🏏**
-![Cricket Fusion Banner](https://i.imgur.com/0qk6iCk.png)
+![Cricket Fusion Banner](https://github.com/Abhranil2004/Cricket-Fusion/blob/general/Screenshorts/banner.png)
 
 
 *A modern cricket dashboard with live scores, real-time updates, and a premium UI.*
@@ -171,12 +171,10 @@ Drag and drop the `dist` folder after build.
 
 The homepage includes:
 
-* [Hero banner](https://i.imgur.com/EB0gkHP.jpeg)
-* [Live match cards](https://i.imgur.com/EB0gkHP.jpeg)
-* [Quick stats panel](https://i.imgur.com/EB0gkHP.jpeg)
-* [Scrollable live feed](https://i.imgur.com/EB0gkHP.jpeg)
-* [In-depth match details section](https://i.imgur.com/EB0gkHP.jpeg)
-* [Elegant scoreboards](https://i.imgur.com/EB0gkHP.jpeg)
+![Hero banner](https://github.com/Abhranil2004/Cricket-Fusion/blob/general/Screenshorts/banner.png)
+![Live match cards](https://github.com/Abhranil2004/Cricket-Fusion/blob/general/Screenshorts/live%20match.png)
+![Quick stats panel](https://github.com/Abhranil2004/Cricket-Fusion/blob/general/Screenshorts/match%20detailed.png)
+![Scrollable live feed](https://github.com/Abhranil2004/Cricket-Fusion/blob/general/Screenshorts/upcoming%20matches.png)
 ---
 
 ## 🏏 Why Cricket Fusion?
